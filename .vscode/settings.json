@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"D:/G-PERSONAL/C++ y cursos/prueba/MyProject1/.vscode": true,
+		"D:/G-PERSONAL/C++ y cursos/prueba/MyProject1/Content": true,
+		"D:/G-PERSONAL/C++ y cursos/prueba/MyProject1/DerivedDataCache": true,
+		"D:/G-PERSONAL/C++ y cursos/prueba/MyProject1/Intermediate": true,
+		"D:/G-PERSONAL/C++ y cursos/prueba/MyProject1/Saved": true
+	},
+	"C_Cpp.errorSquiggles": "disabled"
+}

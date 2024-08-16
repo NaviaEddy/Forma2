@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "MyProject1",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "C:\\Program Files\\Epic Games\\UE_4.25"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.exclusionPolicy": "checkFolders",
+		"C_Cpp.intelliSenseEngine": "default"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
